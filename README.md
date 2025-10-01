@@ -1,5 +1,12 @@
-# 💫 About Me:
-👋 Hi, I’m Muhammed Abbas<br>👀 I’m interested in programming<br>🌱 I’m currently learning web development Using React<br>💞️ I’m looking to collaborate on interesting projects
+# 💫 About Me
+
+👋 Hi, I’m **Muhammed Abbas**  
+💻 Passionate about **web development**, building projects, and solving problems  
+🌱 Currently leveling up in **MERN stack, React, Node.js, and Clean Architecture**  
+💞️ Open to **collaborating on interesting projects** and contributing to **open-source**  
+🚀 Love **learning new tech** and turning ideas into real-world apps  
+🎯 Always aiming to **write clean, maintainable code** and follow best practices
+
 
 
 ## 🌐 Socials:
